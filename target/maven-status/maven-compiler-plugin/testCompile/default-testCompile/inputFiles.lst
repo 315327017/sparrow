@@ -1,0 +1,15 @@
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/service/UserServiceIntTest.java
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/repository/CustomAuditEventRepositoryIntTest.java
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/web/rest/util/PaginationUtilUnitTest.java
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/web/rest/LogsResourceIntTest.java
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/web/rest/ProfileInfoResourceIntTest.java
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/web/rest/AuditResourceIntTest.java
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/web/rest/errors/ExceptionTranslatorTestController.java
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/config/WebConfigurerTestController.java
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/web/rest/AccountResourceIntTest.java
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/web/rest/TestUtil.java
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/web/rest/errors/ExceptionTranslatorIntTest.java
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/config/WebConfigurerTest.java
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/security/SecurityUtilsUnitTest.java
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/service/MailServiceIntTest.java
+/data/jhipster-apps/sparrow/src/test/java/com/picnic/sparrow/web/rest/UserResourceIntTest.java
